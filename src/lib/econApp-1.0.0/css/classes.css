@@ -1,0 +1,8 @@
+.classes{position:relative;width:150px;height:35px;}
+.classes-back{position:absolute;left:0%;right:0%;top:0%;bottom:0%;border-radius:15px;}
+.classes-pin{position:absolute;width:18px;height:18px;right:5px;top:-9px;}
+.classes-pin-pinicon{position:absolute;width:17.05px;height:17.05px;left:0.55px;top:0.29px;}
+.classes-classname{position:absolute;left:10%;right:10%;top:20.31%;bottom:17.19%;font-family:'Roboto';font-style:normal;font-weight:400;font-size:20px;line-height:23px;display:flex;align-items:center;color:#000000;}
+.Vector{position:absolute;left:0%;right:64.67%;top:64.67%;bottom:0%;background:#96A9B2;}
+.Vector1{position:absolute;left:9%;right:0%;top:0%;bottom:9%;background:#FF473E;}
+.Vector2{position:absolute;left:45.38%;right:34.23%;top:25.71%;bottom:53.9%;background:#FF6E83;}
